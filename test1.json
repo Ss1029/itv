@@ -72,8 +72,6 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0}
 {"key":"Jable貓","name":"Jable貓","type":3,"api":"https://github.com/Ss1029/itv/blob/master/json/Jable%E8%B2%93.json","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.485}},
 {"key":"Xvideos7","name":"Xvideos7","type":3,"api":"https://github.com/Ss1029/itv/blob/master/json/Xvideos7.json","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.485}},
-
-
 ],
 "rules":[
 {"name":"proxy","hosts":["edge-hls.doppiocdn.com",".*workers.dev","javdb.com","www.javbus.com","d3opspehgd3862dmfdp3sdf.siauliairsavlt.org","vl05t7es.rostelekom.xyz","raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
