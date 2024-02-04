@@ -1,0 +1,11 @@
+JTV,#genre#
+1,https://cdn77-vid.xvideos-cdn.com/cKOXnx43JfuelZNf8H3Dzg==,1701225538/videos/hls/57/5e/62/575e6206348fafd8ea32e37160800d0d/hls-1080p-11db5.m3u8
+2,https://cdn77-vid.xvideos-cdn.com/iBjoVLn9yMS8Jygn3LwPvw==,1701225903/videos/hls/d0/25/40/d0254000809e51b253eee659ced4845c/hls-1080p-e7348.m3u8
+3,https://ev-h.phncdn.com/hls/videos/202305/06/430989671/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_430989671.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1701213251&validto=1701220451&ipa=209.58.130.37&hdl=-1&hash=pUBbkh7MextfQm8fzrvNPUlOmN0%3D
+4,https://cdn77-vid.xvideos-cdn.com/a4nDWK-0_Sm7D66p6IFU1A==,1701227252/videos/hls/4a/e1/49/4ae149dfc9a642619c9fbecf30984480/hls-1080p-c4072.m3u8
+5,https://astin-cowing.mushroomtrack.com/hls/ZejZxLEH1f-xYrgbrBQmNw/1707091955/38000/38986/38986.m3u8
+6,https://hot-box-gen.mushroomtrack.com/hls/ASd2KZdOmZdEXBpSVPtTJg/1707091843/39000/39210/39210.m3u8
+7,https://znnma-lanq.mushroomtrack.com/hls/Of_2yRMQNXIaTcyeW5xEyQ/1707092358/33000/33711/33711.m3u8
+8,https://asf-doc.mushroomtrack.com/hls/dR-X3eCEghwSYe1r8quirQ/1707092245/38000/38860/38860.m3u8
+9,https://zkour-toge.mushroomtrack.com/hls/hOA4_4P328YHOF5quotajA/1707092449/37000/37865/37865.m3u8
+10,https://galav-oxwy.mushroomtrack.com/hls/Z9mHUGgcyEQ_8JUVDGwD6Q/1707092093/32000/32614/32614.m3u8
